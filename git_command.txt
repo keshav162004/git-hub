@@ -1,0 +1,11 @@
+git init = inicilization of git
+
+git status = check the status of git
+
+git add filename = transfer file filesystem (untracked) to staged
+
+git rm -cached filename =transfer filestaged to untracked (filesystem)
+
+git commit -m " added filename " = transfer file staged to version control system (tracked)
+
+git restore filename = restor the file 
