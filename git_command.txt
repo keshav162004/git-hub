@@ -21,3 +21,5 @@ git push origin master = to paste the file into repostery
 git clone  = Clone repostery to local
 
 rm -rvf git-hub = to delete the file 
+
+git pull origin master = to pull the data from git to local user
