@@ -9,3 +9,15 @@ git rm -cached filename =transfer filestaged to untracked (filesystem)
 git commit -m " added filename " = transfer file staged to version control system (tracked)
 
 git restore filename = restor the file 
+
+git remote add origin 
+
+git remote -v
+
+git remote set-url origin 
+
+git push origin master = to paste the file into repostery
+
+git clone  = Clone repostery to local
+
+rm -rvf git-hub = to delete the file 
