@@ -23,3 +23,22 @@ git clone  = Clone repostery to local
 rm -rvf git-hub = to delete the file 
 
 git pull origin master = to pull the data from git to local user
+
+
+## terraform command 
+
+terraform init = inicilization terraform 
+
+terraform validate = is used to verify the correction of configuration
+
+terraform plan = it create an executin plan
+
+terraform apply = this command execute changes outlined in the plan
+
+terraform fmt = terraform fmt is to format terraform configuration files into a standard formate 
+
+terraform state list 
+
+terraform destroy --target=(filename) = destroy the particular target 
+
+terraform destroy = destroy hte all configuraiton files
